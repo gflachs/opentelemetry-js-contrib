@@ -12,7 +12,7 @@ Compatible with OpenTelemetry JS API and SDK `1.0+`.
 ## Installation
 
 ```bash
-npm install --save @opentelemetry/instrumentation-mysql2
+npm install --save @brokerize/opentelemetry-instrumentation-mysql2
 ```
 
 ## Supported Versions

@@ -1,6 +1,6 @@
 {
   "name": "@brokerize/opentelemetry-instrumentation-mysql2",
-  "version": "0.45.2",
+  "version": "0.45.4",
   "description": "OpenTelemetry instrumentation for `mysql2` database client for MySQL",
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
